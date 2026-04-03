@@ -7,9 +7,9 @@
 Kevin
 ######
 
-.. raw:: html
+.. role:: green
 
-Intrigued by everything <span style="color: #062511;">**data**</span>: visualizations, modelling, pipelines, databases, security, architecture, development
+Intrigued by everything :green:**data**: visualizations, modelling, pipelines, databases, security, architecture, development
 
 .. image:: https://skillicons.dev/icons?i=py,aws,docker,azure,anaconda,blender,react,redux,nginx,tensorflow,nodejs,grafana,mysql,tailwind,nextjs,fastapi,postgres,ubuntu,graphql,ts,django,js,kafka,mongodb,html,css,linux,bash,gcp,git
    :target: https://skillicons.dev
