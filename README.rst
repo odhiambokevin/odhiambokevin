@@ -1,5 +1,5 @@
 .. image:: clay.png
-    :height: 100px
+    :height: 400px
 
 ######
 Kevin
