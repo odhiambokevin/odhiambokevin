@@ -1,5 +1,6 @@
-.. image:: clay.png
-    :height: 400px
+.. image:: me.png
+    :align: center
+    :height: 300px
 
 ######
 Kevin
