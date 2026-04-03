@@ -3,13 +3,13 @@
     :height: 270px
     :target: https://kevin.yaspi.tech
 
-.. role:: green
-
 ######
 Kevin
 ######
 
-Intrigued by everything :green:**data**: visualizations, modelling, pipelines, databases, security, architecture, development
+.. raw:: html
+
+Intrigued by everything <span style="color: #062511;">**data**</span>: visualizations, modelling, pipelines, databases, security, architecture, development
 
 .. image:: https://skillicons.dev/icons?i=py,aws,docker,azure,anaconda,blender,react,redux,nginx,tensorflow,nodejs,grafana,mysql,tailwind,nextjs,fastapi,postgres,ubuntu,graphql,ts,django,js,kafka,mongodb,html,css,linux,bash,gcp,git
    :target: https://skillicons.dev
