@@ -1,6 +1,6 @@
 .. raw:: html
    <h1 align="center">
-   <a href="https://kevin.yaspi.tech"><img height="270" src="me.png" alt="avatar"></a>
+   <a href="https://kevin.yaspi.tech"><img height="270" width="270" src="me.png" alt="avatar"></a>
    </h1>
 
 
