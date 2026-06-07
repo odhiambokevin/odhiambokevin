@@ -7,4 +7,4 @@
 Kevin
 ######
 
-Intrigued by everything **data**: visualizations, modelling, pipelines, databases, security, architecture, development
+Intrigued by everything **data**: visualizations, modelling, pipelines, databases, security, architecture
